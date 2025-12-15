@@ -1,0 +1,15 @@
+# Virtual Environments
+piper_env/
+tutor_env/
+
+# Data and Model Files
+data/
+
+
+# IDE Settings
+.idea/
+*.iml
+*.pyc
+
+# Operating System Files
+.DS_Store
